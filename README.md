@@ -137,13 +137,13 @@ GET /limiteds
 Clone the repository:
 
 ```bash
-git clone https://github.com/iliaprogrammer/blox-fruits-api.git
+git clone https://github.com/iliaprogrammer/bloxfruits-api.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd blox-fruits-api
+cd bloxfruits-api
 ```
 
 Create a virtual environment:
